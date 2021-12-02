@@ -1,3 +1,12 @@
 Estaba la pajara pinta sentada en un verde limon
 con el pico cortaba la rama con la rama cortaba la flor
+<<<<<<< HEAD
+
+
+=======
 Yo soy la Pájara Pinta, si alguien pregunta dónde estoy le dirán que me vieron sola y sentadita en un rincón
+>>>>>>> 1360fa8670bdf25c557c9e423469e57cf6e87eb8
+
+
+
+califragilistico espialidoso
